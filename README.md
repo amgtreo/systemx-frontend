@@ -31,6 +31,12 @@ Is required to have installed and configured:
 - PostgreSQL
 - Your favorire  IDE
 
+
+```bash
+# Installing Primefaces Omega
+  mvn install:install-file -Dfile=<jar_path> -DgroupId=org.primefaces.omegamenu -DartifactId=omega-menu -Dversion=4.1.0 -Dpackaging=jar
+```
+
 ## Run Locally
 
 Clone the project

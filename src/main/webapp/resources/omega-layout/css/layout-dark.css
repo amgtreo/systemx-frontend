@@ -999,7 +999,7 @@ a {
 }
 .landing-wrapper .landing-header {
   height: 80px;
-  background-color: #0388e5;
+  background-color: #000000;
   position: fixed;
   left: 0;
   width: 100%;
@@ -1273,7 +1273,7 @@ a {
   }
   .landing-wrapper .landing-header {
     height: 80px;
-    background-color: #0388e5;
+    background-color: #000000;
   }
   .landing-wrapper .landing-header .landing-header-content {
     width: 100%;
